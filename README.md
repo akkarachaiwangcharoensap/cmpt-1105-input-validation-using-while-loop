@@ -1,4 +1,4 @@
-# Cmpt 1105 | Input Validation Using While Loop
+# CMPT 1105 | Input Validation Using While Loop
 
 ```python
 grade = int(input("Enter a grade"))
